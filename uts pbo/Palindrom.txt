@@ -1,0 +1,5 @@
+menemukan string kebalikan dari string yang diberikan dan membandingkan kedua string tersebut. Jika kedua string sama, keduanya disebut palindrom.
+•	Dapatkan array karakter dari string yang diberikan
+•	Buat string dengan mengulang array dari indeks akhir ke awal
+•	Secara opsional - hapus koma, pemisah, atau pemisah kata lain dari kedua string
+•	Bandingkan kedua string tersebut
